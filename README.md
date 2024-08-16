@@ -4,8 +4,11 @@
   - [Active Directory Pentest Tool](https://github.com/AyoubSEG/Pentest-AD/tree/main)
 
 <h2>Certifications 📄 </h2>
+  - [](https://www.credly.com/badges/12569a36-e169-4724-bfa9-97f38b6ca1b4/public_url)
+  - [)](https://www.credly.com/badges/d8d0969f-4847-4290-a254-44a487f14a51)
+
   - [Cybersecurity Essentials (CISCO)](https://www.credly.com/badges/12569a36-e169-4724-bfa9-97f38b6ca1b4/public_url)
-  - [CCNA: Introduction to Networks (CISCO)](https://www.credly.com/badges/d8d0969f-4847-4290-a254-44a487f14a51)
+  - [CCNA: Introduction to Networks (CISCO](https://www.credly.com/badges/d8d0969f-4847-4290-a254-44a487f14a51)
 
 ## Find me around the web 🤳🌎: 
 
