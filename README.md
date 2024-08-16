@@ -8,11 +8,11 @@
 
 ## Find me around the web 🤳🌎: 
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][x]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[x]:https://x.com/ayoubseg
+[twitter]:https://x.com/ayoubseg
 [instagram]: https://www.instagram.com/ayoubseg
 [linkedin]: https://linkedin.com/in/ayoub-seghrouchni
 
